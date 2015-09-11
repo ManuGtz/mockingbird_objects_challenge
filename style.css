@@ -1,0 +1,11 @@
+#content{
+	list-style-type: none;
+	color:blue;
+	padding:10px;
+	font:normal bold 16px Verdana;
+}
+
+img{
+	display:block;
+	margin:0 auto;
+}
